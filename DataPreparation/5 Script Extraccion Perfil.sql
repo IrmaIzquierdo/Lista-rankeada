@@ -5,9 +5,6 @@
  ,'grafico',''), 'objetivos',''), 'antecedentes',''), ' s ',''),
  'proyecto',''), 'general',''), 'especifico',''), 'indicx','')
  rest
-  from perfil
- where perfilDrector not in (
- '  LUIS ALEJANDRO MACHADO SALAZAR','  HOLGER ANIBAL CAPA SANTOS',
- '  MARCO DANIEL SILVA RAMOS', '  LUCA SORRISOVALVO')
-
+  from perfil;
+ 
 
